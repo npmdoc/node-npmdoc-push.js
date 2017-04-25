@@ -1,6 +1,6 @@
 # npmdoc-push.js
 
-#### api documentation for  [push.js (v0.0.13)](https://github.com/Nickersoft/push.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-push.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-push.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-push.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-push.js)
+#### basic api documentation for  [push.js (v0.0.13)](https://github.com/Nickersoft/push.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-push.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-push.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-push.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-push.js)
 
 #### A compact, cross-browser solution for the Javascript Notifications API
 
@@ -70,7 +70,8 @@
         "prepublish": "npm run build",
         "test": "karma start"
     },
-    "version": "0.0.13"
+    "version": "0.0.13",
+    "bin": {}
 }
 ```
 
